@@ -1,0 +1,18 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/PrintCodeBtapp/bin
+/PrintCodeBtapp/obj
+/PrintCodeBtapp/PrintCodeBtapp.csproj.user
+/.vs
+/packages
+/Print/obj
+/PrintCodeBtapp/obj
+/PrintForms/obj
+/PrintForms/bin
+/PrintForms/PrintForms.csproj.user
+/TestCollect
+/PrintForms/Properties/PublishProfiles/FolderProfile.pubxml.user
+/TCPHardness/Properties/PublishProfiles/FolderProfile.pubxml.user
+/PrintCodeBtapp/.vs/PrintCodeBtapp/DesignTimeBuild/.dtbcache.v2
